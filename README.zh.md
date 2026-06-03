@@ -1,8 +1,8 @@
-# XPay Labs React 示例 — 加密货币支付网关集成演示
+# XPay Labs（简称 xpay）React 示例 — 加密货币支付网关集成演示
 
 [English](README.md) | 中文
 
-这是一个 **React** 示例应用，演示如何将 [XPay Labs](https://www.xpaylabs.com) 自托管、非托管加密货币支付网关 SDK 集成到 React Web 应用中。支持在 TRON、EVM 链和 SUI 上接受 USDT/USDC 支付。
+这是一个 **React** 示例应用，演示如何将 [XPay Labs（简称 xpay）](https://www.xpaylabs.com) 自托管、非托管加密货币支付网关 SDK 集成到 React Web 应用中。支持在 TRON、EVM 链和 SUI 上接受 USDT/USDC 支付。
 
 ## 功能特性
 

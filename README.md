@@ -1,8 +1,8 @@
-# XPay Labs React Example — Crypto Payment Gateway Integration Demo
+# XPay Labs (xpay) React Example — Crypto Payment Gateway Integration Demo
 
 English | [中文](README.zh.md)
 
-A **React** example application demonstrating how to integrate the [XPay Labs](https://www.xpaylabs.com) self-hosted, non-custodial crypto payment gateway SDK into a React web application. Accept USDT/USDC payments on TRON, EVM chains, and SUI.
+A **React** example application demonstrating how to integrate the [XPay Labs (xpay)](https://www.xpaylabs.com) self-hosted, non-custodial crypto payment gateway SDK into a React web application. Accept USDT/USDC payments on TRON, EVM chains, and SUI.
 
 ## Features
 
