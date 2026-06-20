@@ -1,7 +1,7 @@
 {
   "name": "xpay-example-react",
   "version": "1.0.0",
-  "description": "XPay Labs SDK React Example",
+  "description": "XPay Labs — React integration example (React 18 + MUI) demonstrating crypto payment checkout flow.",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
@@ -14,7 +14,7 @@
     "payment",
     "react"
   ],
-  "author": "",
+  "author": "XPay Labs",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.11.1",
