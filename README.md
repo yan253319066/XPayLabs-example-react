@@ -64,6 +64,11 @@ src/
 - [Vue Demo (E-Commerce)](https://github.com/yan253319066/XPayLabs-demo-vue)
 - [Checkout Page](https://github.com/yan253319066/XPayLabs-checkout)
 
+## Repository
+
+**GitHub:** [yan253319066/XPayLabs-example-react](https://github.com/yan253319066/XPayLabs-example-react)
+**Gitee (mirror):** [XPayLabs/XPayLabs-example-react](https://gitee.com/XPayLabs/XPayLabs-example-react)
+
 ## License
 
 MIT
